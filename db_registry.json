@@ -1,0 +1,3 @@
+{
+  "sales_db": "sqlite://../rag_sql_mcp_final/data/sales_db.db"
+}
